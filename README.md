@@ -101,5 +101,5 @@ The ANN unit implements a **single-node neural computation** with weighted input
 ---
 #Refenece Book
 
---https://edisciplinas.usp.br/pluginfile.php/7910542/mod_resource/content/1/Digital%20Design%20and%20Computer%20Architecture.pdf
+https://edisciplinas.usp.br/pluginfile.php/7910542/mod_resource/content/1/Digital%20Design%20and%20Computer%20Architecture.pdf
 --
