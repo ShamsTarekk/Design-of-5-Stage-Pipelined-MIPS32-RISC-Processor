@@ -81,22 +81,14 @@ The ANN unit implements a **single-node neural computation** with weighted input
 - Complete VHDL source code  
 - Individual testbenches for all modules  
 - Fully integrated MIPS34 processor  
-- Assembly test programs  
-- Design report with architecture diagrams  
-- Schematics:
-  - Register file  
-  - Pipeline stages  
-  - Control unit (FSM)  
-  - Forwarding & hazard detection units  
+- Assembly test programs 
 
 ---
 
 ## Tools
 
 - VHDL  
-- FPGA simulation tools (ModelSim / Vivado or equivalent)  
-- Digital design concepts based on standard computer architecture references  
-
+- FPGA simulation tools (Vivado)
 ---
 
 ## Notes
@@ -107,3 +99,7 @@ The ANN unit implements a **single-node neural computation** with weighted input
 - All registers are 32-bit wide  
 
 ---
+#Refenece Book
+
+--https://edisciplinas.usp.br/pluginfile.php/7910542/mod_resource/content/1/Digital%20Design%20and%20Computer%20Architecture.pdf
+--
